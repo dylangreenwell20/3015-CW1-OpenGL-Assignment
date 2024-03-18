@@ -3,7 +3,7 @@ This is my submission for COMP3015 - Coursework 1. I have created an OpenGL scen
 The theme of the scene is meant to be a cave-like experience - the background is dark and there is a cavern structure model loaded with moss on it.  
 
 # Features
-*BlinnPhong Lighting* - I use a BlinnPhong method to do the lighting in my scene due to its good visuals with low performance cost.  
+*_BlinnPhong Lighting_* - I use a BlinnPhong method to do the lighting in my scene due to its good visuals with low performance cost.  
 *Textures* - I have implemented textures from a file which are displayed on objects in the scene, such as my skybox and model.  
 *Toonshading* - Within my fragment shader, I set up Toonshading to allow me to control how many shades of light there are in the scene.  
 *Mixing* - I mixed a moss texture with the model texture to create a mossy look to the model which fits the cave theme of the scene.  
